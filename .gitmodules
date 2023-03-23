@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cglm"]
+	path = cglm
+	url = https://github.com/cran/cglm
+	shallow = true
+	registered = true
+[submodule "ivtools"]
+	path = ivtools
+	url = https://github.com/cran/ivtools
+	shallow = true
+	registered = true
+[submodule "stdReg"]
+	path = stdReg
+	url = https://github.com/cran/stdReg
+	shallow = true
+	registered = true
